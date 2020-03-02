@@ -1,1 +1,53 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+  <!-- Meta data -->
+  <title>Class 01</title>
+</head>
+<style>
+  header {
+    width: 100px;
+    height: 200px;
+    background-color: aqua;
+  }
+
+  aside {
+    color: blue;
+  }
+</style>
+
+<body>
+  <header>TOP
+      <p style="color: red; background-color: blue;">what is your name?</p>
+      <p style="color: orange; background-color: pink; ">what is your favorite color?</p>
+      <p style="color:purple; background-color: grey;">what is your favorite sport?</p>
+      <p style="color:green; background-color: brown">where are you from?</p>
+      <!-- <p>nfjsdihgoivvb</p> -->
+  </header>
+  <aside>SIDE</aside>
+  <footer>BOTTOM</footer>
+  <script>
+    // assigned value, using varible;
+    // var name = 'Jacob';
+    // alert(name);
+    var name = prompt('what is your name?');
+    console.log(name);
+
+    var color = prompt('What is you favorite color?');
+    console.log(color);
+
+    alert('Hey there ' + name + ', your favorite color is ' + color);
+
+    var sport = prompt('what is your favorite sport?');
+    console.log(sport);
+
+    var place = prompt('where are you from?');
+    console.log(place);
+
+    alert(name +' is from ' + place + ' and likes the color ' + color + ', and ' + sport +".")
+
+  </script>
+</body>
+
+</html>
