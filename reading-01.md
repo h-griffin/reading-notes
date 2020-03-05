@@ -1,7 +1,8 @@
-01 march 2020
+# READ-01
+### 01 march 2020
 
 
-# HTML
+# HTML & CSS
 ## structure ch1 p12-39
 html structures the website youre designing by what is iportant first, like a newspaper. html has elements with two tags incasing the information being displayed on the screen. tags are the containers telling you about the information it contains. if a tag says '< header >' then the contents incased in the tags are what is heading the paragraph. attributes tell ore about the elements. 
 

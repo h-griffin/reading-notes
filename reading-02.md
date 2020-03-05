@@ -1,6 +1,7 @@
-02 march 2020
+# READ-02
+### 02 march 2020
 
-# HTML
+# HTML & CSS
 ## text ch2 p40-61
 structural tags have meaning to the program with what to do with the information given, tags like <h1> and <p> are both given texts but appear on the page differently. white space collapsing makes it easier for the coder to read the code, when the browser comes across two or more spaces next to eachother it displays only one. the text inside of <em> may be audibly read different through screen readers so it is import to include those in the code. 
 

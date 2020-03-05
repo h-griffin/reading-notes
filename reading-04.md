@@ -1,5 +1,7 @@
-READ-04
-# HTML
+# READ-04
+### 04 march 2020
+
+# HTML & CSS
 ## links ch4 p74-93
 links allow you to move from one web page to another, and can be hyper links to other text inside the same website or can be from a separate website. it can also open a new browser window or open and addres an email. an absolute url links to another site while a relative url stays inside of the same site. a folder that contains other files inside of it is the parent to the child folders inside of it, if the child folder contains a folder the parent to the child becomes he grandparent to the child’s child folder. using target will open link in a new window. target attribute comes after the href. to link to a specific part of another page you can follow the page url with an i’d tag of the other page contents. 
 

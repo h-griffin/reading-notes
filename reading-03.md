@@ -1,6 +1,7 @@
-03 march 2020
+# READ-03
+### 03 march 2020
 
-# HTML
+# HTML & CSS
 ## lists ch3 p62-73
 ordered lists and unordered lists provide a place to list information that doesnt need to be written about in a paragraph or have a certain place. nested lists provide a clear way of listing things and defining them. 
 
