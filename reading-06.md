@@ -1,0 +1,3 @@
+# READ-06
+# article
+in the article about problem solving the author writes that teaching the same simple progrsm over and over, provides an easy fall back and farmiliar program and problem set to use to implament new technology. haivng the sae simple task to program that can be used with different technologies that can me taught through something farmilliar. using the farmiliar project it makes the new material less daunting because the objective is known. 
