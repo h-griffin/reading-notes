@@ -24,3 +24,5 @@ http://javascriptbook.com/
 - [reading 13](/reading-notes/reading-13.md)
 - [reading 14](/reading-notes/reading-14.md)
 
+# about
+a pla
